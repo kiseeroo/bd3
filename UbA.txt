@@ -1,0 +1,16 @@
+od,gal,001,Male,30,5,True,5000000,Engineer
+sar,gal,002,Female,28,9,False,4500000,Analyst
+Dorj,pag,003,Female,29,1,False,4900000,IT
+bat,odhuu,004,Male,20,2,True,4200000,AI engineer
+sur,temuulen,005,Male,21,4,True,3200000,Designer
+dav,sur,006,Female,22,2,True,4200000,Graphic designer
+nym,gal,007,Female,21,2,False,4200000,Civil engineer
+tem,galaa,008,Male,22,2,True,4200000,Data engineer
+han,bat,009,Male,22,2,False,4200000,Data analyst
+bol,dorj,010,Female,26,2,True,4200000,UI designer
+hul,gal,011,Female,27,2,True,4200000,Junior engineer
+zel,gal,012,Male,28,2,False,4200000,Junior designer
+Tamir,Dorj,013,Male,22,2,True,4200000,Software engineer
+Purevdorj,Bathuu,014,Female,29,2,False,4200000,Tester
+Nymka,Bat-suren,015,Male,24,2,True,4200000,Support
+Sor-od,Gal-bayr,016,Male,27,2,True,4200000,Manager
