@@ -10,7 +10,7 @@ class Ajilchin:
         self.АжиллажБайгаа = still_working
         self.Цалин = salary
         self.АлбанТушаал = role
-        //
+        
     def __str__(self):
         return f"{self.Нэр} -ийн {self.Овог} нь {self.АжилсанЖил} жил ажилласан. (Ажиллаж байгаа эсэх: {self.АжиллажБайгаа} нас: {self.нас} Хүйс: {self.Хүйс} Цалин: {self.Цалин} Албан тушаал: {self.АлбанТушаал})"
 
@@ -68,4 +68,4 @@ def filter(workers):
 
 if __name__ == "__main__":
     main()
-    //4:40 pm
+    //16:46
